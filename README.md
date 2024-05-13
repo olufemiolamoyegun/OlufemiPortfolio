@@ -2,7 +2,7 @@
 ->
 ### Hi, my name is Olufemi
 #### a Microsoft Power BI Data Analyst Associate from Lagos, Nigeria.
-Skills: **POWER BI** || **TABLEAU** || **SQL** || **PYTHON** || **R** || **SPSS** || **QLIKSENSE** || **QLIK VIEW** ||
+Skills: **POWER BI** || **TABLEAU** || **SQL** || **PYTHON** || **R** || **SPSS** || **QLIKSENSE** || **QLIK VIEW** ||**GOOGLELOCKERSTUDIO**
 -  I’m currently learning SQL, R 
 -  I’m looking to collaborate on Data Analysis projects 
 -   How to reach me:  olamoyegun07@gmail.com
