@@ -1,52 +1,59 @@
-Hi, I'm Olufemi Olamoyegun, FMVA®, FAIMFIN, CFA Investment Foundations  
-🎯 Finance Automation Educator | Certified Power BI Data Analyst | Fabric Analytics Engineer  
-📍 Lagos, Nigeria  
+# 👋 Hi, I’m Olufemi Olamoyegun
+
+🎯 **Finance Automation Educator | CFO | FMVA® | FAIMFIN | CFA Investment Foundations**  
+📊 **Certified: Power BI Data Analyst (PL-300), Fabric Analytics Engineer (DP-600)**  
+🚀 Equipping professionals with Excel, Power BI & Microsoft AI for smarter financial decisions
 
 ---
 
-## 💼 What I Do  
-I help finance professionals unlock productivity with Excel 365, Power BI, and Microsoft Fabric.
-
-- 📊 Power BI dashboards for financial storytelling  
-- ⚙️ Automating finance workflows with Power Automate & Office Scripts  
-- 🧠 Building forecasting & budgeting models using Lakehouses (Microsoft Fabric)  
-- 🔎 Exploring Microsoft Dynamics 365 Finance for smarter decision-making  
+## 🔧 Skills & Tools
+**Excel 365** | **Power BI** | **Microsoft Fabric** | **Python in Excel**  
+**Power Automate** | **Office Scripts** | **SQL** | **QuickBooks ProAdvisor** | **Xero Certified**
 
 ---
 
-## 📌 Certifications & Memberships  
-- ✅ Power BI Data Analyst Associate (PL-300)  
-- ✅ Microsoft Fabric Analytics Engineer (DP-600)  
-- ✅ FMVA® – Financial Modeling & Valuation Analyst  
-- ✅ CFA Investment Foundations  
-- ✅ FAIMFIN – Fellow of AI in Business, Management & Finance  
-- ✅ QuickBooks ProAdvisor | Xero Certified Advisor  
+## 🌐 Where You Can Find Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/olufemi-olamoyegun/)
+- 🧠 [Medium Blog](https://medium.com/@olamoyegun07)
+- 🎥 [YouTube](https://youtube.com/@olufemiolamoyegun2038?feature=shared)
+- 📸 [Instagram](https://www.instagram.com/yourprofile)
+- 🕹️ [TikTok](https://www.tiktok.com/@yourprofile)
+- 💼 [GitHub Projects](https://github.com/Olufemiolamoyegun)
 
 ---
 
-## 🧠 Learning Journey  
-- 📚 Preparing for: Microsoft Excel Expert & Dynamics 365 Finance  
-- 👥 Actively contributing to: Excel, Power BI, Fabric, and Dynamics 365 Finance Communities  
-- 🎥 Building content on: GitHub • Medium • LinkedIn • YouTube • IG Reels • TikTok  
+## 💡 What I Share
+
+- 🧾 Finance-ready Excel templates
+- 📈 Power BI dashboards for reporting, forecasting, automation
+- 🤖 Excel Copilot, Python in Excel, and Office Scripts use cases
+- 🧪 Microsoft Fabric for financial insights
+- 🎯 Data challenges, MVP-worthy contributions, and finance tutorials
 
 ---
 
-## 🤝 Let’s Collaborate  
-- 🔍 Looking to partner on finance & automation projects  
-- 📧 Email: olamoyegun07@gmail.com  
+## 🎓 Learning & Certifications
+
+- FMVA® – Financial Modeling & Valuation Analyst
+- CFA Institute Investment Foundations
+- FAIMFIN – Fellow of AI in Management, Business & Finance
+- PL-300 – Power BI Data Analyst Associate ✅
+- DP-600 – Fabric Analytics Engineer Associate ✅
+- Microsoft Excel Expert (in view)
+- Microsoft Dynamics 365 for Finance (in view)
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OlufemiOlamoyegun-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/olufemiolamoyegun/)  
-[![GitHub](https://img.shields.io/badge/GitHub-olufemiolamoyegun-black?style=flat&logo=github)](https://github.com/olufemiolamoyegun)  
-[![Medium](https://img.shields.io/badge/Medium-@olamoyegun07-black?style=flat&logo=medium)](https://medium.com/@olamoyegun07)  
-[![YouTube](https://img.shields.io/badge/YouTube-olufemiolamoyegun2038-red?style=flat&logo=youtube)](https://youtube.com/@olufemiolamoyegun2038)  
+## 📢 Let’s Collaborate!
+I'm open to:
+- Community events
+- Data challenges
+- Guest speaking or workshops on Excel/Power BI for Finance
+
+📬 Reach me: **olamoyegun07@gmail.com**
 
 ---
 
-## 🏆 GitHub Stats  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=OlufemiOlamoyegun)](https://github.com/ryo-ma/github-profile-trophy)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlufemiOlamoyegun)](https://github.com/anuraghazra/github-readme-stats)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlufemiOlamoyegun&show_icons=true&count_private=true)  
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=OlufemiOlamoyegun)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olufemiolamoyegun)](https://github.com/anuraghazra/github-readme-stats)  
+[![Olufemi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Olufemiolamoyegun&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
