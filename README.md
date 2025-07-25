@@ -17,8 +17,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/olufemi-olamoyegun/)
 - 🧠 [Medium Blog](https://medium.com/@olamoyegun07)
 - 🎥 [YouTube](https://youtube.com/@olufemiolamoyegun2038?feature=shared)
-- 📸 [Instagram](https://www.instagram.com/yourprofile)
-- 🕹️ [TikTok](https://www.tiktok.com/@yourprofile)
 - 💼 [GitHub Projects](https://github.com/Olufemiolamoyegun)
 
 ---
