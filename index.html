@@ -1,188 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Olufemi Olamoyegun, FMVA®, FAIMFIN - Finance & Data Analyst Portfolio</title>
+  <meta name="description" content="Olufemi Olamoyegun - Certified Finance Professional and Power BI Data Analyst. FMVA®, FAIMFIN with expertise in AI-driven financial insights and reporting." />
+  <meta name="keywords" content="Finance, Power BI, AI, FMVA, Financial Modeling" />
+  <style>
+    :root {
+      --primary-color: #0078D4;
+      --accent-color: #F2C811;
+      --text-color: #333;
+      --bg-color: #f9f9f9;
+      --max-width: 960px;
+    }
+    body {
+      margin: 0; padding: 0 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: var(--bg-color); color: var(--text-color);
+      line-height: 1.6;
+      max-width: var(--max-width);
+      margin-left: auto; margin-right: auto;
+    }
+    header {
+      text-align: center;
+      padding: 60px 10px 40px;
+    }
+    header h1 {
+      font-size: 3em;
+      margin-bottom: 0.3em;
+      color: var(--primary-color);
+    }
+    header p {
+      font-size: 1.3em;
+      color: #555;
+      max-width: 700px;
+      margin: 0 auto 30px;
+    }
+    header a.cta-button {
+      background-color: var(--accent-color);
+      color: #222;
+      padding: 15px 40px;
+      border-radius: 25px;
+      font-weight: 600;
+      text-decoration: none;
+      box-shadow: 0 4px 8px rgba(242,200,17,0.4);
+      transition: background-color 0.3s ease;
+    }
+    header a.cta-button:hover {
+      background-color: #d1ac0c;
+    }
+    nav {
+      position: sticky;
+      top: 0;
+      background-color: white;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      padding: 14px 20px;
+      z-index: 999;
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      font-weight: 600;
+      flex-wrap: wrap;
+    }
+    nav a {
+      color: var(--primary-color);
+      text-decoration: none;
+      font-size: 1.1em;
+    }
+    nav a:hover, nav a:focus {
+      color: var(--accent-color);
+      outline: none;
+    }
+    section {
+      padding: 50px 10px 40px;
+      border-bottom: 1px solid #ddd;
+      max-width: var(--max-width);
+      margin: 0 auto;
+    }
+    section h2 {
+      color: var(--primary-color);
+      font-size: 2.2em;
+      margin-bottom: 20px;
+      border-bottom: 3px solid var(--accent-color);
+      display: inline-block;
+      padding-bottom: 7px;
+    }
+    article {
+      margin-bottom: 30px;
+    }
+    article h3 {
+      margin-bottom: 10px;
+      color: #222;
+      font-size: 1.3em;
+    }
+    article p {
+      max-width: 700px;
+      color: #444;
+      font-size: 1.05em;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li {
+      margin-bottom: 12px;
+    }
+    ul li a {
+      color: var(--primary-color);
+      font-weight: 600;
+    }
+    ul li a:hover {
+      color: var(--accent-color);
+    }
+    blockquote {
+      font-style: italic;
+      border-left: 4px solid var(--accent-color);
+      padding-left: 18px;
+      margin: 25px 0;
+      color: #666;
+      max-width: 700px;
+    }
+    blockquote footer {
+      margin-top: 8px;
+      font-weight: 600;
+      color: #444;
+    }
+    footer#contact {
+      text-align: center;
+      padding: 50px 10px 70px;
+      font-size: 1.15em;
+      color: #666;
+    }
+    /* Accessibility focus */
+    a:focus {
+      outline: 3px solid var(--accent-color);
+      outline-offset: 3px;
+    }
+    /* Responsive */
+    @media (max-width: 700px) {
+      header h1 {
+        font-size: 2.3em;
+      }
+      nav {
+        gap: 18px;
+        padding: 12px 15px;
+      }
+      nav a {
+        font-size: 1em;
+      }
+      section {
+        padding: 35px 10px;
+      }
+      article h3 {
+        font-size: 1.15em;
+      }
+      article p {
+        font-size: 1em;
+      }
+    }
+  </style>
+</head>
+<body>
 
-<!DOCTYPE HTML>
-<!--
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>Massively by HTML5 UP</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
+<nav aria-label="Primary navigation">
+  <a href="#about" tabindex="1">About Me</a>
+  <a href="#finance" tabindex="2">Finance Projects</a>
+  <a href="#bi" tabindex="3">Data & BI Projects</a>
+  <a href="#certifications" tabindex="4">Certifications</a>
+  <a href="#insights" tabindex="5">Insights</a>
+  <a href="#testimonials" tabindex="6">Testimonials</a>
+  <a href="#contact" tabindex="7">Contact</a>
+</nav>
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+<header role="banner">
+  <h1>Olufemi Olamoyegun, FMVA®, FAIMFIN</h1>
+  <p>Certified Finance Professional and Power BI Data Analyst specializing in AI-driven financial insights and transformational reporting.</p>
+  <a href="#contact" class="cta-button" tabindex="8">Get in Touch</a>
+</header>
 
-				<!-- Intro -->
-					<div id="intro">
-						<h1>Olufemi Olamoyegun Portfolio<br />
-						</h1>
-						<p> A highly motivated and detail-oriented Microsoft Certified Power BI Data Analyst Associate with over 3 years of experience in analyzing and interpreting financial data.
-						  Proficient in data analysis, data visualization, and statistical modeling. 
-						   Skilled in using tools such as Excel, SQL, R, Google Looker, MySQL and Python to extract insights from complex data sets. Passionate about leveraging data to drive business decisions and improve organizational performance.
-						   Possess excellent communication and interpersonal skills, with the ability to work collaboratively with cross-functional teams. <a href="https://github.com/Olufemiolamoyegun">GitHub</a></p>
-						<ul class="actions">
-							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
-						</ul>
-					</div>
+<section id="about" tabindex="0" aria-label="About Olufemi Olamoyegun">
+  <h2>About Me</h2>
+  <div style="text-align:center; margin-bottom: 25px;">
+    <img src="assets/profile-photo.jpg" alt="Olufemi Olamoyegun Profile Photo" width="180" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </div>
+  <p>
+    I am Olufemi Olamoyegun, a finance professional and data analyst passionate about empowering smarter business decisions through the fusion of financial expertise and data-driven insights.
+  </p>
+  <p>
+    As a Certified Financial Modeling & Valuation Analyst (FMVA®) and Fellow of the Association of Investment Management & Finance (FAIMFIN), I bring proven capabilities in valuation, budgeting, forecasting, and financial reporting.
+  </p>
+  <p>
+    Coupled with advanced skills in Power BI, AI-powered automation, and Excel modeling, I design interactive dashboards and AI toolkits that help organizations uncover trends, automate repetitive tasks, and make confident, strategic decisions.
+  </p>
+  <p>
+    I thrive at the intersection of finance and technology, helping teams embrace digital transformation while maintaining rigorous analytical standards.
+  </p>
+</section>
 
-				<!-- Header -->
-					<header id="header">
-						<a href="index.html" class="logo">DATA ANALYST</a>
-					</header>
+<section id="finance" tabindex="0" aria-label="Financial Analysis and Modeling Projects">
+  <h2>Finance Projects</h2>
+  <article>
+    <h3>Discounted Cash Flow Valuation Model</h3>
+    <p>
+      Developed a detailed DCF valuation model for a multinational manufacturing company, incorporating scenario and sensitivity analysis to assess investment risks and returns. This model supported the client’s strategic acquisition decision and was praised for its clarity and adaptability.
+    </p>
+  </article>
+  <article>
+    <h3>Budget Forecasting Dashboard</h3>
+    <p>
+      Built an Excel-based budget forecasting dashboard integrating dynamic inputs, charts, and automated variance analysis. The tool reduced budgeting cycle time by 25% and improved forecast accuracy for a mid-sized enterprise.
+    </p>
+  </article>
+  <article>
+    <h3>Financial Statement Analysis Toolkit</h3>
+    <p>
+      Created a comprehensive toolkit for ratio and trend analysis of financial statements, enabling quick assessment of company health and performance for multiple sectors.
+    </p>
+  </article>
+</section>
 
-				<!-- Nav -->
-					<nav id="nav">
-						<ul class="links">
-							<li class="active"><a href="index.html">PROJECTS</a></li>
-							<li><a href="https://medium.com/@olamoyegun07">MEDIUM</a></li>
-							<li><a href="https://github.com/OlufemiOlamoyegun">GITHUB</a></li>
-						</ul>
-						<ul class="icons">
-							<li><a href="https://twitter.com/@olamfe" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="https://ng.linkedin.com/in/Olufemi-Olamoyegun" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-							<li><a href="https://github.com/OlufemiOlamoyegun" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-						</ul>
-					</nav>
+<section id="bi" tabindex="0" aria-label="Data Visualization and Business Intelligence Projects">
+  <h2>Data & BI Projects</h2>
+  <article>
+    <h3>AI-Powered Financial Reporting Dashboard</h3>
+    <p>
+      Designed a Power BI dashboard that integrates AI-generated forecasts and real-time alerts to support finance teams in tracking KPIs and identifying risks early. The dashboard includes drill-throughs and custom tooltips to enrich user experience.
+    </p>
+  </article>
+  <article>
+    <h3>ChatGPT Prompt Toolkit for Finance</h3>
+    <p>
+      Curated and developed a set of AI prompts to automate common financial analysis tasks such as variance explanations, budgeting scenarios, and report generation. This toolkit improved team productivity and consistency in data interpretation.
+    </p>
+  </article>
+  <article>
+    <h3>Interactive Regional Connectivity Map</h3>
+    <p>
+      Created a multi-page Power BI report visualizing 10 years of global mobile and internet penetration trends, featuring custom tooltips, bookmarks, and play axis animations to tell a compelling data story.
+    </p>
+  </article>
+</section>
 
-				<!-- Main -->
-					<div id="main">
+<section id="certifications" tabindex="0" aria-label="Certifications and Credentials">
+  <h2>Certifications & Credentials</h2>
+  <ul>
+    <li><a href="https://corporatefinanceinstitute.com/certifications/fmva/" target="_blank" rel="noopener" tabindex="9">FMVA® - Financial Modeling & Valuation Analyst</a></li>
+    <li><a href="https://associationfaimfin.org/" target="_blank" rel="noopener" tabindex="10">FAIMFIN - Fellow of the Association of Investment Management & Finance</a></li>
+    <li><a href="https://learn.microsoft.com/en-us/certifications/" target="_blank" rel="noopener" tabindex="11">Microsoft Certified: Power BI, Excel, and Fabric</a></li>
+  </ul>
+</section>
 
-						<!-- Featured Post -->
-							<article class="post featured">
-								<header class="major">
-									<span class="date">April, 2023</span>
-									<h2><a href="#">CALL CENTRE ANALYSIS WITH POWER BI<br />
-									</a></h2>
-									<p>In this PWC project, I carried out an analysis of various call center agents on calls answered, customers resolutions, call duration, and average satisfaction level by customers developed a dashboard using Microsoft Power BI.<br />
-									.</p>
-								</header>
-								<a href="#" class="image main"><img src="images/Call center.jpg" alt="" /></a>
-								<ul class="actions special">
-									<li><a href="https://github.com/olufemiolamoyegun/Project---PWC-Call-Centre-Solution-with-Power-BI" class="button large">VIEW PROJECT</a></li>
-								</ul>
-							</article>
+<section id="insights" tabindex="0" aria-label="Insights and Articles">
+  <h2>Insights & Articles</h2>
+  <article>
+    <h3><a href="https://medium.com/@olufemiolamoyegun/power-bi-for-finance-transformation" target="_blank" rel="noopener" tabindex="12">Power BI for Finance Transformation</a></h3>
+    <p>Exploring how finance teams can unlock strategic value with Power BI and AI automation.</p>
+  </article>
+</section>
 
-						<!-- Posts -->
-							<section class="posts">
-								<article>
-									<header>
-										<span class="date">September, 2023</span>
-										<h2><a href="#">AIRBNB PROJECT WITH TABLEAU<br />
-										</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/airbnb.jpeg" alt="" /></a>
-									<p>In this project, I analyzed, cleaned, and built a dashboard in Tableau respresenting AIRBNB rent for apartments.</p>
-									<ul class="actions special">
-										<li><a href="https://github.com/OlufemiOlamoyegun/AIRBNB-TABLEAU-PROJECT"  class="button">view project</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">September, 2023</span>
-										<h2><a href="#">Spotify Tracks Analysis using Python<br />
-										</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/Spotify.jpg" alt="" /></a>
-									<p>In this project, I carried out an analysis to uncover different tracks songs under various classification.</p>
-									<ul class="actions special">
-										<li><a href="https://github.com/Olufemiolamoyegun/Spotify-Tracks-Analysis-Using-Python" class="button">view project</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">September, 2023</span>
-										<h2><a href="#">Employees-Demographics-Salary-Analysis-using-SQL<br />
-										</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/Salary.jpg" alt="" /></a>
-									<p>In this project, I carried out an analysis using SQL, MYSQL,and visualized the data using Power BI.</p>
-									<ul class="actions special">
-										<li><a href="https://github.com/olufemiolamoyegun/Employees-Demographics-and-Salary-Analysis-using-SQL" class="button">view project</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">October, 2023</span>
-										<h2><a href="#">United States Addidas Sales project using Excel<br />
-										</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/Addidas.jpeg" alt="" /></a>
-									<p>In this project, I carried out an analysis to uncover the men and female wear sales, and operating profit sold by the retailer</p>
-									<ul class="actions special">
-										<li><a href="https://github.com/OlufemiOlamoyegun/United-States-Addidas-Sales-Project-using-Excel" class="button">view project</a></li>
-									</ul>
-								</article>
-							</section>
-					</div>
+<section id="testimonials" tabindex="0" aria-label="Testimonials and Client Feedback">
+  <h2>What Clients Say</h2>
+  <blockquote>
+    <p>"Olufemi’s insights and dashboards have transformed our reporting process — clear, accurate, and fast."</p>
+    <footer>— CFO, Global Tech Firm</footer>
+  </blockquote>
+  <blockquote>
+    <p>"His AI prompt toolkits saved us countless hours in data analysis."</p>
+    <footer>— Financial Analyst</footer>
+  </blockquote>
+</section>
 
-				<!-- Footer -->
-					<footer id="footer">
-						<section>
-							<form method="post" action="#">
-								<div class="fields">
-									<div class="field">
-										<label for="name">Name</label>
-										<input type="text" name="name" id="name" />
-									</div>
-									<div class="field">
-										<label for="email">Email</label>
-										<input type="text" name="email" id="email" />
-									</div>
-									<div class="field">
-										<label for="message">Message</label>
-										<textarea name="message" id="message" rows="3"></textarea>
-									</div>
-								</div>
-								<ul class="actions">
-									<li><input type="submit" value="Send Message" /></li>
-								</ul>
-							</form>
-						</section>
-						<section class="split contact">
-							<section class="alt">
-								<h3>Address</h3>
-								<p>Lagos, Nigeria<br />
-								</p>
-							</section>
-							<section>
-							</section>
-							<section>
-								<h3>Email</h3>
-								<p><a href="#">olamoyegun07@gmail.com</a></p>
-							</section>
-							<section>
-								<h3>Social</h3>
-								<ul class="icons alt">
-									<li><a href="https://twitter.com/@olamfe" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
-									<li><a href="https://ng.linkedin.com/in/Olufemi-Olamoyegun" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
-									<li><a href="https://github.com/OlufemiOlamoyegun" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-								</ul>
-							</section>
-						</section>
-					</footer>
+<footer id="contact" tabindex="0" aria-label="Contact information">
+  <p>Let’s connect! Email me at <a href="mailto:your.email@example.com" tabindex="13">your.email@example.com</a> or find me on <a href="https://linkedin.com/in/olufemiolamoyegun" target="_blank" rel="noopener" tabindex="14">LinkedIn</a>.</p>
+</footer>
 
-				<!-- Copyright -->
-					<div id="copyright">
-						<ul><li>&copy; OlufemiOlamoyegun</li><li>Design: <a href="mailto:olamoyegun07@gmail.com">OlufemiOlamoyegun</a></li></ul>
-					</div>
-
-			</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
+</body>
 </html>
-```
