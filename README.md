@@ -27,7 +27,7 @@
 - 📈 Power BI dashboards for reporting, forecasting, automation
 - 🤖 Excel Copilot, Python in Excel, and Office Scripts use cases
 - 🧪 Microsoft Fabric for financial insights
-- 🎯 Data challenges, MVP-worthy contributions, and finance tutorials
+- 🎯 Data challenges, and finance tutorials
 
 ---
 
@@ -49,7 +49,7 @@ I'm open to:
 - Data challenges
 - Guest speaking or workshops on Excel/Power BI for Finance
 
-📬 Reach me: **olamoyegun07@gmail.com**
+📬 Reach me: **femi_olamoyegun@outlook.com**
 
 ---
 
